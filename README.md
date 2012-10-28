@@ -13,6 +13,10 @@ You can then import the package, a package "netchan" is then available:
 
 	import "github.com/CHH/netchan"
 
+## Docs
+
+See the [API Docs](http://go.pkgdoc.org/github.com/CHH/netchan)
+
 ## License
 
 Copyright © 2012 Christoph Hochstrasser
